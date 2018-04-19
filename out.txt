@@ -1,0 +1,4 @@
+               
+puma                7                   red                 gjh577              3000                
+reebok              8                   black               gg687               4000                
+addidas             8                   grey                hjj664              3000                
